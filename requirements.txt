@@ -1,0 +1,4 @@
+python-mnist
+numpy
+# pytorch
+# tensorflow
